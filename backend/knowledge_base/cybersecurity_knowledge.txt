@@ -1,0 +1,93 @@
+Phishing
+
+Phishing is a cyberattack where attackers impersonate trusted organizations or people to trick users into revealing sensitive information. Phishing messages commonly use urgent language, suspicious links, fake login pages, account warnings, or requests for passwords and OTPs.
+
+Common phishing indicators include unexpected links, urgent requests, threats of account suspension, requests for credentials, spelling or grammar mistakes, suspicious domains, and unexpected financial offers.
+
+To protect against phishing, verify the sender, avoid clicking suspicious links, inspect website domains carefully, use multi-factor authentication, and never share passwords or OTPs through unexpected messages.
+
+Malware
+
+Malware is malicious software designed to damage systems, steal information, disrupt operations, or gain unauthorized access. Common types include viruses, worms, trojans, spyware, ransomware, and keyloggers.
+
+Malware can enter systems through malicious attachments, compromised websites, pirated software, infected downloads, or phishing attacks.
+
+To reduce malware risk, keep operating systems and applications updated, use trusted security software, avoid suspicious downloads, scan attachments, and download software only from trusted sources.
+
+Ransomware
+
+Ransomware is malware that encrypts files or prevents access to systems and demands payment from victims.
+
+Ransomware commonly spreads through phishing emails, malicious attachments, vulnerable services, compromised credentials, and unsafe downloads.
+
+Protection methods include regular offline backups, software updates, multi-factor authentication, least-privilege access, network segmentation, and employee security awareness.
+
+If ransomware is suspected, isolate the affected device from the network, avoid spreading the infection, preserve evidence, and contact the organization's security or incident response team.
+
+Password Security
+
+Strong passwords help protect accounts from unauthorized access. A strong password should be long, unique, and difficult to guess.
+
+Using the same password across multiple accounts increases risk because one compromised password can expose multiple accounts.
+
+Password managers can generate and store unique passwords securely. Multi-factor authentication should also be enabled whenever available.
+
+Multi-Factor Authentication
+
+Multi-factor authentication requires more than one verification method to access an account.
+
+Authentication factors can include something you know, such as a password, something you have, such as a security key or phone, and something you are, such as a fingerprint.
+
+Multi-factor authentication reduces the risk of account takeover even when a password has been compromised.
+
+Social Engineering
+
+Social engineering is the manipulation of people into revealing information or performing actions that compromise security.
+
+Common social engineering techniques include phishing, pretexting, baiting, impersonation, and fraudulent support requests.
+
+Users should verify unusual requests through trusted communication channels and avoid sharing sensitive information based only on urgency or authority claims.
+
+Account Security
+
+Account security involves protecting accounts from unauthorized access and monitoring for suspicious activity.
+
+Important measures include strong unique passwords, multi-factor authentication, reviewing active sessions, monitoring login alerts, keeping recovery information updated, and avoiding password sharing.
+
+If an account may be compromised, change the password immediately, revoke suspicious sessions, enable multi-factor authentication, and contact the service provider.
+
+Network Security
+
+Network security protects systems, devices, applications, and data from unauthorized access and attacks.
+
+Important network security controls include firewalls, intrusion detection systems, intrusion prevention systems, network segmentation, secure protocols, access controls, and continuous monitoring.
+
+Using encrypted communication such as HTTPS helps protect data while it travels between systems.
+
+Cybersecurity Incident Response
+
+Incident response is the process of detecting, containing, investigating, and recovering from cybersecurity incidents.
+
+Common incident response stages include preparation, identification, containment, eradication, recovery, and lessons learned.
+
+During an incident, organizations should preserve logs and evidence, isolate affected systems, identify the attack scope, remove the threat, restore systems safely, and document the incident.
+
+Safe Browsing
+
+Safe browsing involves avoiding suspicious websites, downloads, and links.
+
+Users should check website addresses carefully, prefer HTTPS connections, avoid unknown downloads, use updated browsers, and avoid entering sensitive information on unfamiliar websites.
+
+Public Wi-Fi
+
+Public Wi-Fi can expose users to security risks, especially when networks are unsecured or malicious.
+
+Avoid accessing highly sensitive accounts on untrusted networks when possible. Use HTTPS, keep device security enabled, disable automatic connection to unknown networks, and use a trusted VPN when appropriate.
+
+Data Protection
+
+Sensitive data should be protected from unauthorized access, modification, disclosure, or loss.
+
+Examples of sensitive information include passwords, authentication codes, financial information, personal identification information, and confidential business data.
+
+Security practices include encryption, access controls, backups, strong authentication, secure storage, and regular monitoring.

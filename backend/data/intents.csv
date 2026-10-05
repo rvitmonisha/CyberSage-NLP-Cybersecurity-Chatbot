@@ -1,0 +1,141 @@
+text,intent
+"What is phishing?",phishing_info
+"Explain phishing",phishing_info
+"What does phishing mean?",phishing_info
+"Tell me about phishing attacks",phishing_info
+"How does phishing work?",phishing_info
+"What is a phishing attack?",phishing_info
+"Explain phishing attacks to me",phishing_info
+"What are phishing scams?",phishing_info
+"How do phishing scams work?",phishing_info
+"Tell me about phishing",phishing_info
+"What is email phishing?",phishing_info
+"What does a phishing scam mean?",phishing_info
+"Why do hackers use phishing?",phishing_info
+"Can you explain phishing simply?",phishing_info
+"Teach me about phishing",phishing_info
+"What is phishing in cybersecurity?",phishing_info
+"Give me information about phishing",phishing_info
+"How do hackers use phishing?",phishing_info
+"Why is phishing dangerous?",phishing_info
+"Tell me how phishing attacks happen",phishing_info
+"Is this email a phishing scam?",phishing_detection
+"Can you detect a phishing message?",phishing_detection
+"Does this message look suspicious?",phishing_detection
+"Is this SMS a scam?",phishing_detection
+"Check whether this message is safe",phishing_detection
+"Can you check this email for phishing?",phishing_detection
+"Is this message malicious?",phishing_detection
+"Does this email look like a scam?",phishing_detection
+"Can you analyze this suspicious message?",phishing_detection
+"Is this link part of a phishing attack?",phishing_detection
+"Can you identify a phishing attempt?",phishing_detection
+"Is this text message dangerous?",phishing_detection
+"Can you check if this is a scam?",phishing_detection
+"Does this email contain phishing signs?",phishing_detection
+"Is this suspicious email safe?",phishing_detection
+"Can you detect scam messages?",phishing_detection
+"Check this message for security risks",phishing_detection
+"Is someone trying to phish me?",phishing_detection
+"Could this be a phishing attempt?",phishing_detection
+"Analyze this email for suspicious content",phishing_detection
+"What is malware?",malware_info
+"Explain malware",malware_info
+"What are malware attacks?",malware_info
+"How does malware affect a computer?",malware_info
+"Tell me about malicious software",malware_info
+"What does malware do?",malware_info
+"How does malware work?",malware_info
+"What are different types of malware?",malware_info
+"Why is malware dangerous?",malware_info
+"Explain malicious software",malware_info
+"What is computer malware?",malware_info
+"How can malware damage a computer?",malware_info
+"What are malware threats?",malware_info
+"Tell me about computer viruses and malware",malware_info
+"How do malware attacks happen?",malware_info
+"What can malware do to my system?",malware_info
+"How does malicious software spread?",malware_info
+"Why should I protect against malware?",malware_info
+"Give me information about malware",malware_info
+"Teach me about malware",malware_info
+"How can I protect my account?",security_advice
+"How do I stay safe online?",security_advice
+"Give me cybersecurity tips",security_advice
+"How can I protect my computer?",security_advice
+"How do I improve my online security?",security_advice
+"What are good cybersecurity practices?",security_advice
+"How can I stay secure online?",security_advice
+"Give me tips to protect my data",security_advice
+"How can I secure my account?",security_advice
+"What should I do to stay safe online?",security_advice
+"How can I protect my personal information?",security_advice
+"How do I improve my cybersecurity?",security_advice
+"Give me online safety tips",security_advice
+"How can I make my account safer?",security_advice
+"What are basic cybersecurity precautions?",security_advice
+"How do I protect my data from hackers?",security_advice
+"How can I improve my digital security?",security_advice
+"What should I do to secure my computer?",security_advice
+"How do I prevent cyber attacks?",security_advice
+"Tell me how to stay protected online",security_advice
+"My password was stolen",account_security
+"Someone accessed my account",account_security
+"I think my account was hacked",account_security
+"My account is compromised",account_security
+"What should I do if my account is hacked?",account_security
+"Someone logged into my account",account_security
+"I received a login alert I don't recognize",account_security
+"My account has been hacked",account_security
+"I think someone knows my password",account_security
+"My account was accessed by someone else",account_security
+"Someone changed my account password",account_security
+"I cannot access my account because of a hacker",account_security
+"My account security has been compromised",account_security
+"I see an unknown login",account_security
+"Someone is using my account",account_security
+"I think my credentials were stolen",account_security
+"My password may have been exposed",account_security
+"What should I do after my account is hacked?",account_security
+"How can I recover a compromised account?",account_security
+"How do I secure a hacked account?",account_security
+"What is ransomware?",ransomware_info
+"Explain ransomware",ransomware_info
+"How does ransomware work?",ransomware_info
+"What is a ransomware attack?",ransomware_info
+"How can ransomware affect my computer?",ransomware_info
+"What does ransomware do?",ransomware_info
+"How does ransomware infect computers?",ransomware_info
+"Why is ransomware dangerous?",ransomware_info
+"What are ransomware attacks?",ransomware_info
+"Tell me about ransomware",ransomware_info
+"How do hackers use ransomware?",ransomware_info
+"What happens during a ransomware attack?",ransomware_info
+"How can ransomware damage files?",ransomware_info
+"What is ransomware malware?",ransomware_info
+"How does ransomware encrypt files?",ransomware_info
+"Why do ransomware attacks happen?",ransomware_info
+"How does ransomware spread?",ransomware_info
+"Tell me about ransomware threats",ransomware_info
+"How can ransomware affect a business?",ransomware_info
+"Teach me about ransomware",ransomware_info
+"How do I secure my online account?","security_advice"
+"What are the best ways to protect my account?","security_advice"
+"How can I keep my account safe?","security_advice"
+"What should I do to secure my account?","security_advice"
+"How do I improve my account security?","security_advice"
+"How can I prevent my account from being hacked?","security_advice"
+"What steps can I take to protect my account?","security_advice"
+"How do I make my account more secure?","security_advice"
+"How can I stay safe online?","security_advice"
+"What security measures should I use?","security_advice"
+"My account has been hacked","account_security"
+"Someone hacked my account","account_security"
+"I think my account was compromised","account_security"
+"Someone accessed my account","account_security"
+"I see suspicious activity on my account","account_security"
+"My account was accessed by someone else","account_security"
+"I cannot trust my account anymore","account_security"
+"I think someone got into my account","account_security"
+"My account security has been breached","account_security"
+"Someone is using my account without permission","account_security"
